@@ -1,0 +1,15 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "firstName": "admin",
+        "lastName": "admin",
+        "middleName": "admin",
+        "login": "admin",
+        "password": "$2a$10$G2ReB/AisQg2D7rK3/ZCnuufnfw7l63Z4RLcnq7J4QRmsckLNh5vu",
+        "email": "admin@mail.com",
+        "status": "ON",
+        "roles": []
+      }
+    ]
+  }
